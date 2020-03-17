@@ -14,6 +14,8 @@ OK. Start by forking this [CodeSandbox](https://codesandbox.io/s/films-app-start
 
 Add your CodeSandbox link to the [class spreadsheet](https://docs.google.com/spreadsheets/d/1fNOTPbQu-ZWDPwOhjSIkot7pGj2u2ZPuNk_O_yQwyHU/edit#gid=1331062302)
 
+Here is a [working version of the app](https://45vux.csb.app/) completed with only the steps in this readme. Feel free to investigate the app in React Dev Tools to see whats going on.
+
 **Important**: After each step that follows, check your application to see how it looks before moving on. It's good practice to be sure your app is working correctly before adding new functionality.
 
 Don't forget any <code>import</code> statements as you add more files.
