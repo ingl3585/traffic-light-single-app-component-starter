@@ -5,7 +5,7 @@
 
 ### 2. Read/Watch The Following - EST TIME: < 1hr
 
- -  - Read/Do: [Intro To React Hooks](https://daveceddia.com/intro-to-hooks/) - 30min
+ - Read: [Intro To React Hooks](https://daveceddia.com/intro-to-hooks/) - 30min
 
  **Bonus**
  
