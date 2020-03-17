@@ -12,8 +12,6 @@
 
 ### 3. Algo Practice - EST TIME: 20min
 
- - [Given two binary strings, return their sum (also a binary string)](https://git.generalassemb.ly/SEIR-224/w04-d2-algo-hw)
-
 ### 4.  Interview Practice - EST TIME: 20min
 
 1.  Create a new Googgle Doc called ***Tech Interview Questions** and turn sharing on.
