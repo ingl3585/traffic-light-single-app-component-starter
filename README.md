@@ -1,7 +1,7 @@
 # W04D02-HW
 
 ### 1. Films Lab - EST TIME: 1 - 1.5hr
- - Follow along and work through the Part1 and Part2 markdowns inside the Films folder
+ - Follow along and work through the Part1 and Part2 markdown files inside the Films folder
 
 ### 2. Read/Watch The Following - EST TIME: < 1hr
 
