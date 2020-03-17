@@ -1,12 +1,12 @@
 # W04D02-HW
 
-### 1. Films Lab - EST TIME: 1 - 1.5hr
+### 1. Films Lab - EST TIME: 1hr
  - Follow along and work through the [Part1](./Films/Part1.md) markdown file inside the Films folder
  - Submit a link to your project as a pull request to this repo
 
-### 2. Read/Watch The Following - EST TIME: < 1hr
+### 2. Read The Following - EST TIME: 20min
 
- - Read: [Intro To React Hooks](https://daveceddia.com/intro-to-hooks/) - 30min
+ - Read: [Intro To React Hooks](https://daveceddia.com/intro-to-hooks/) - 20min
 
  **Bonus**
  
