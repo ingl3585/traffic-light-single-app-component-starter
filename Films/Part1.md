@@ -10,7 +10,7 @@ Note, this is just the first phase of this project; the app won't be completed 
 
 ### Ready?
 
-OK. Start by forking this CodeSandbox
+OK. Start by forking this [CodeSandbox](https://codesandbox.io/s/films-app-starter-oc77c)
 
 **Important**: After each step that follows, check your application to see how it looks before moving on. It's good practice to be sure your app is working correctly before adding new functionality.
 
