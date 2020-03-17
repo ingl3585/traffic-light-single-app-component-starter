@@ -12,6 +12,8 @@ Note, this is just the first phase of this project; the app won't be completed 
 
 OK. Start by forking this [CodeSandbox](https://codesandbox.io/s/films-app-starter-oc77c)
 
+Add your CodeSandbox link to the [class spreadsheet](https://docs.google.com/spreadsheets/d/1fNOTPbQu-ZWDPwOhjSIkot7pGj2u2ZPuNk_O_yQwyHU/edit#gid=1331062302)
+
 **Important**: After each step that follows, check your application to see how it looks before moving on. It's good practice to be sure your app is working correctly before adding new functionality.
 
 Don't forget any <code>import</code> statements as you add more files.
