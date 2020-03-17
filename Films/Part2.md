@@ -2,9 +2,7 @@
 
 ## Your Mission
 
-Stop any project you currently have running; let's go back to the film application you started. You can run the app with `npm start`.
-
-Your goal today is to add some events to your app. You'll keep these events simple for now — each will simply print a message to the console.
+Your goal is to add some events to your app. You'll keep these events simple for now — each will simply print a message to the console.
 
 In the future, however, you'll be able to add films to your list of favorites, filter the films to see only your favorites, and view the details for a specific film. Your work today will make that possible.
 
