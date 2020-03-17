@@ -10,13 +10,11 @@
  **Bonus**
  
 
-
-### 3. ALGO PRACTICE - EST TIME: 20min
+### 3. Algo Practice - EST TIME: 20min
 
 TBD
 
-
-### 4.  INTERVIEW PRACTICE - EST TIME: 20min
+### 4.  Interview Practice - EST TIME: 20min
 
 1.  Create a new Googgle Doc called ***Tech Interview Questions** and turn sharing on.
 2. Add and answer the following question: 
