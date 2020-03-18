@@ -13,7 +13,7 @@
 
 ### 3. Algo Practice - EST TIME: 20min
 
-- Work through the algorithm in this repo https://git.generalassemb.ly/SEIR-224/w04-d2-algo-hw
+- Work through this [algorithm](letter-numbers.md) 
 
 ### 4.  Interview Practice - EST TIME: 20min
 
