@@ -1,6 +1,6 @@
 # W04D02-HW
 
-### 1. Films Lab - EST TIME: 1hr
+### 1. Films Lab - EST TIME: 2hr
 
 - Follow along and work through the [Part2](./Films/Part2.md) markdown file inside the Films folder
 - Submit a link to your project as a pull request to this repo
