@@ -10,7 +10,7 @@ Note, this is just the first phase of this project; the app won't be completed 
 
 ### Ready?
 
-OK. If you have your own working version from completing Part 1 then feel free to use that or you can fork this [CodeSandbox](https://codesandbox.io/s/films-app-part-1-solution-45vux) that contains a working  version of Part 1. \
+OK. If you have your own working version from completing Part 1 then feel free to use that or you can fork this [CodeSandbox](https://codesandbox.io/s/films-app-part-1-solution-45vux) that contains a working  version of Part 1. 
 
 Here is the [React Architecture](https://docs.google.com/drawings/d/1XcAUc8jz1XN_2r1G7eVOUbxFWZRJNspof1EPlDJPFWY/edit) up till now.
 
