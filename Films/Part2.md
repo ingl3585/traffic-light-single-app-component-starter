@@ -16,7 +16,9 @@ Here is the [React Architecture](https://docs.google.com/drawings/d/1XcAUc8jz1XN
 
 If you haven't already done so add your CodeSandbox link to the [class spreadsheet](https://docs.google.com/spreadsheets/d/1fNOTPbQu-ZWDPwOhjSIkot7pGj2u2ZPuNk_O_yQwyHU/edit#gid=1331062302)
 
-Here is a [working version of the app up to Part 2](https://q39ku.csb.app/) completed with only the steps in this readme. Feel free to investigate the app in React Dev Tools to see whats going on.
+Here is a [working version of the app up to Part 2](https://q39ku.codesandbox.io/) completed with only the steps in this readme. Feel free to investigate the app in React Dev Tools to see whats going on.
+
+Here is the [final solution](https://fufid.codesandbox.io/) you will be building over the next several days.
 
 **Important**: After each step that follows, check your application to see how it looks before moving on. It's good practice to be sure your app is working correctly before adding new functionality.
 
