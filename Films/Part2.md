@@ -138,16 +138,6 @@ Now, connect `handleDetailsClick()`. Add an `onClick` to `FilmRow` so that your 
 
 You should be able to check this in your console by clicking any film row.
 
-#### Step 3: Add `stopPropagation()` to the `handleFave` event handler.
-
-<!-- TODO: Investigate this step. -->
-
-Wait! Notice that you're now seeing two messages every time you click on the `Fave` icon/button. This is tricky, it's because the event is propagating upward to the `FilmRow`. To make it so that only one message appears, you'll need to stop the event propagation.
-
-To do this, add the line `e.stopPropagation()` inside the `Fave` component's `handleClick()` function.
-
-Try clicking the `Fave` icon/button — there's only one message now.
-
 ### Tasks, Part 4: Adding State to the `Fave` Component
 
 #### Step 1: Create an initial state for the `Fave` component and set its initial state
