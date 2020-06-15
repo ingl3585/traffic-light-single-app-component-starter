@@ -54,7 +54,7 @@ Because you aren't using this anywhere yet, nothing should change.
 
 #### Step 3: Add an `onClick` in `Fave`.
 
-Now that you have a function that handles when a user clicks a movie, connect it to the UI. In the `div` of `Fave`'s `render()` function, add a parameter of `onClick={handleClick}`.
+Now that you have a function that handles when a user clicks a movie, connect it to the UI. In the `div` located in`Fave` add a parameter of `onClick={handleClick}`.
 
 In your browser's JavaScript console, you should see the message `handleClick` printed out when the `div` is clicked.
 
