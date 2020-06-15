@@ -30,7 +30,7 @@ In the future, however, you'll be able to add films to your list of favorites, f
 
 ![](images/film-2.png)
 
-### Tasks, Part 1: Adding Favorites
+### Part 1: Adding Favorites
 
 #### Step 1: Add a new `Fave` component.
 
@@ -60,7 +60,7 @@ In your browser's JavaScript console, you should see the message `handleClick` p
 
 That's all! Your click is not yet adding favorites, but it's working. Later, you'll modify your app so that when the `Fave` icon is clicked, it adds or removes the selected movie from the user's favorites array.
 
-### Tasks, Part 2: Handling Filter Toggling
+### Part 2: Handling Filter Toggling
 
 Eventually, you'll want an "ALL" heading and a "FAVES" heading that are clickable links. When the user clicks "ALL," the left sidebar will show all movies; when the user clicks "FAVES," the left sidebar will show only their favorite movies. You'll make the basis of that next.
 
@@ -122,7 +122,7 @@ Add an `onClick` inside `FilmListing` so that, when "ALL" is clicked, it calls t
 
 Now, you should see a message in the console when you click either option. Later, instead of viewing a message, clicking either option will display the correct list of movies to the user — you've assured that these options are clickable, which is an important first step.
 
-### Tasks, Part 3: Handling Film Details
+### Part 3: Handling Film Details
 
 #### Step 1: Define a `handleDetailsClick()` function inside `FilmRow`.
 
@@ -138,7 +138,7 @@ Now, connect `handleDetailsClick()`. Add an `onClick` to `FilmRow` so that your 
 
 You should be able to check this in your console by clicking any film row.
 
-### Tasks, Part 4: Adding State to the `Fave` Component
+### Part 4: Adding State to the `Fave` Component
 
 #### Step 1: Create an initial state for the `Fave` component and set its initial state
 
@@ -190,7 +190,7 @@ If it's `true`, it sets the `const` variable `isFave` to `remove_from_queue`; if
 
 Once you have this, clicking the "Add" icon in each row should change the icon that's displayed.
 
-### Tasks, Part 5: Adding State to the `FilmListing` Component
+### Part 5: Adding State to the `FilmListing` Component
 
 #### Step 1: Set the initial state.
 
