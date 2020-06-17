@@ -178,7 +178,7 @@ You need to make the following happen:
 
 <details>
   <summary>Hint: A more advanced and succinct way to write this function could be:</summary>
-  <code>const isFave = this.state.isFave ? 'remove_from_queue' : 'add_to_queue';</code>
+  <code>const className = isFave ? 'remove_from_queue' : 'add_to_queue';</code>
 
 This is called a ternary statement.
 
