@@ -177,10 +177,10 @@ You need to make the following happen:
 - You also want to change the text that's rendered in the `p` to be the same as the text that's in the class — `remove_from_queue` or `add_to_queue`.
 
 <details>
-  <summary>Hint: A more advanced and succinct way to write this function could be:</summary>
+  <summary>Hint: A more advanced and succinct way to write this function could be as a ternary statement.:</summary>
   <code>const className = isFave ? 'remove_from_queue' : 'add_to_queue';</code>
 
-This is called a ternary statement.
+
 
 You can drop this in the `JSX` of your component. This checks if the current `isFave` state is `true` or `false`.
 
