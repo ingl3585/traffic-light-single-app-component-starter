@@ -4,7 +4,7 @@
 
 ...is to build a film app that will feature a list of all of the recent popular movies. A user can scroll through the titles, click one for more details, and save it to their favorites.
 
-Note, this is just the first phase of this project; the app won't be completed until a future lesson. For today, the plan is to identify the overall application structure, then create the individual components that support that structure. You'll pass films as props to each component and ultimately use iteration to render one component for each film. At the end of this exercise, you will have the app seen here:
+Note, this is just the seciond phase of this project; the app won't be completed until a future lesson. For today, the plan is to identify the overall application structure, then create the individual components that support that structure. You'll pass films as props to each component and ultimately use iteration to render one component for each film. At the end of this exercise, you will have the app seen here:
 
 ![](images/film-1.png)
 
@@ -86,7 +86,7 @@ If you check your browser, these subheadings should appear in the left column.
   <div className="film-list-filters">
     <div className="film-list-filter">
       ALL
-      <span className="section-count">{this.props.films.length}</span>
+      <span className="section-count">{props.films.length}</span>
     </div>
     <div className="film-list-filter">
       FAVES
@@ -182,9 +182,9 @@ You need to make the following happen:
 
 This is called a ternary statement.
 
-You can drop this in the `render()` method. This checks if the current `isFave` state is `true` or `false`.
+You can drop this in the `JSX` of your component. This checks if the current `isFave` state is `true` or `false`.
 
-If it's `true`, it sets the `const` variable `isFave` to `remove_from_queue`; if it's `false`, it sets the `const` variable `isFave` to `add_to_queue`.
+If it's `true`, it sets the `const` variable `isFave` to `remove_from_queue`; if it's `false`, it sets the `const` variable `isFave` to `add_to_queue`. This is a ternary.
 
 </details>
 
@@ -204,7 +204,7 @@ In the `FilmListing` component, set `state` to an object with a name of `filter,
 
 The `handleFilterClick()` method is the one that's called when a user clicks "ALL" or "FAVES," so it's where you'll change the filter.
 
-Inside of using the `handleFilterClick()` method on the `FilmListing` component, use `this.setState` to set the value of `filter` to the value passed to the event handler.
+Inside of using the `handleFilterClick()` method on the `FilmListing` component, use `state` to set the value of `filter` to the value passed to the event handler.
 
 #### Step 3: Set the `className` on `div` based on `filter`'s state.
 
