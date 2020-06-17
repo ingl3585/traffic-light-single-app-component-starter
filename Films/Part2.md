@@ -12,7 +12,7 @@ Note, this is just the seciond phase of this project; the app won't be complete
 
 OK. If you have your own working version from completing Part 1 then feel free to use that or you can fork this [CodeSandbox](https://codesandbox.io/s/films-app-part-1-solution-45vux) that contains a working  version of Part 1. 
 
-Here is the [React Architecture](https://docs.google.com/drawings/d/1XcAUc8jz1XN_2r1G7eVOUbxFWZRJNspof1EPlDJPFWY/edit) up till now.
+Here is the [React Architecture](https://docs.google.com/drawings/d/1XcAUc8jz1XN_2r1G7eVOUbxFWZRJNspof1EPlDJPFWY/edit) once Part 2 has been completed.
 
 Here is a [working version of the app up to Part 2](https://q39ku.codesandbox.io/) completed with only the steps in this readme. Feel free to investigate the app in React Dev Tools to see whats going on.
 
