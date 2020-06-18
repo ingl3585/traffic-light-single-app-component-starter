@@ -7,7 +7,7 @@
 
 ### 2. Read The Following - EST TIME: 20min
 
-- Read: [How the useEffect Hook Works](https://daveceddia.com/useeffect-hook-examples/) - 20min
+- Read: [4 Examples of useState](https://daveceddia.com/usestate-hook-examples/) - 20min
 
 ### 3. Algo Practice - EST TIME: 20min
 
