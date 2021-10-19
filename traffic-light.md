@@ -13,7 +13,7 @@ Here is a <a target="_" href="https://zhtbi.csb.app/">working CodeSandBox soluti
 
 ## Starter CodeSandbox
 
-Here is our [Starter Code]("./traffic-light-single-app-component-starter")
+Here is our [Starter Code](./traffic-light-single-app-component-starter)
 
 ### Instructions
 
